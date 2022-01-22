@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AmazingWarps:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AmazingWarps_jar</output-path>
+    <root id="archive" name="AmazingWarps.jar">
+      <element id="module-output" name="AmazingWarps" />
+    </root>
+  </artifact>
+</component>

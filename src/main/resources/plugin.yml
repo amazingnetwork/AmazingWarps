@@ -1,0 +1,8 @@
+name: AmazingWarps
+author: NatanFoleto
+main: br.com.amazingnetwork.AmazingWarps
+version: 1.0
+commands:
+  warp:
+    aliases: [warps]
+    permission: warp.use
