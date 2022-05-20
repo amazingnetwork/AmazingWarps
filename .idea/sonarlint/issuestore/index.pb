@@ -1,3 +1,21 @@
 
 l
 <src/main/java/br/com/amazingnetwork/utils/LocationUtils.java,2\a\2a2dd4bfba14cd3ca3ed565a4843e3a2343e083e
+h
+8src/main/java/br/com/amazingnetwork/utils/ItemUtils.java,0\d\0d590a38eadd4d0afe2437ff03e3acc65c6ecaa3
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+f
+6src/main/java/br/com/amazingnetwork/entities/Warp.java,0\0\004a91acf1dbdf325bc68ad7bdf4f5bc6efd6112
+t
+Dsrc/main/java/br/com/amazingnetwork/listeners/InventoryListener.java,1\c\1c70681878030591da8b99462483078f58253c55
+q
+Asrc/main/java/br/com/amazingnetwork/listeners/PlayerListener.java,0\1\019900dde1331ab2f3e34f9162c958f428ebdafb
+e
+5src/main/java/br/com/amazingnetwork/AmazingWarps.java,2\a\2a00d5b10cda4a1e383af49803ce3d5a1f22db5f
+m
+=src/main/java/br/com/amazingnetwork/managers/WarpManager.java,0\3\030a9f9450a381c5d9769a55216d0654411b0f2f
+q
+Asrc/main/java/br/com/amazingnetwork/managers/YamlFileManager.java,1\c\1cf29d1b081422f3ab0cfa198334dd693042701e
+m
+=src/main/java/br/com/amazingnetwork/commands/WarpCommand.java,f\5\f50b49622879e82713e7c7b36fcd5d0f18532e3d
